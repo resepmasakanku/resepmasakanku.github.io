@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://social.servegame.com/sitemap.xml
+Sitemap: https://social.servegame.com/sitemap.html
